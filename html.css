@@ -22,7 +22,8 @@ img{margin-left:auto ;margin-right: auto; display: block;}
     background-color: #04AA6D;
     color: white;
   }
-  #th {background-color: #f3f8f9;
-    float: right
-   borde;}
-   #pu {float: left;} 
+  #thead {background-color: #f3f8f9;
+    float: right;}
+  #thead th { border-left: dotted black 1px;}
+    #pu {float: left; size: 5px;} 
+
